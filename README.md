@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilosiete
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Bootstrap Studio
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Full Stack Vibe Coding!
 - 💞️ I’m looking to collaborate on Web Developing
 - 📫 How to reach me PM
 
